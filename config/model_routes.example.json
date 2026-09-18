@@ -1,0 +1,23 @@
+{
+  "workers": [
+    {
+      "type": "gemini_native",
+      "model": "YOUR_GEMINI_MODEL",
+      "api_key_env": "GEMINI_KEY_1"
+    },
+    {
+      "type": "openai_compatible",
+      "model": "YOUR_OPENROUTER_MODEL",
+      "api_key_env": "OPENROUTER_KEY_1",
+      "base_url": "https://openrouter.ai/api/v1"
+    }
+  ],
+
+  "manager": [
+    {
+      "type": "gemini_native",
+      "model": "YOUR_MANAGER_MODEL",
+      "api_key_env": "GEMINI_KEY_2"
+    }
+  ]
+}

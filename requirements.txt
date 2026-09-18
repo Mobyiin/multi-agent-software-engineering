@@ -1,0 +1,16 @@
+autogen-agentchat==0.7.5
+autogen-ext[openai]==0.7.5
+
+google-genai
+
+openai==3.14.0
+
+pydantic
+
+python-dotenv==1.2.3
+
+httpx==0.28.1
+
+pytest==9.1.1
+
+tzdata==2026.4
