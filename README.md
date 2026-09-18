@@ -1190,8 +1190,8 @@ flowchart LR
 ## 1. Clone the repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd Multi_agent
+git clone https://github.com/Mobyiin/multi-agent-software-engineering.git
+cd multi-agent-software-engineering
 ```
 
 ## 2. Create a virtual environment
