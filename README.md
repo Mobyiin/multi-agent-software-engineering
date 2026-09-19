@@ -1190,7 +1190,7 @@ flowchart LR
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/Mobyiin/multi-agent-software-engineer.git
+git clone https://github.com/Mobyiin/multi-agent-software-engineering.git
 cd multi-agent-software-engineering
 ```
 
